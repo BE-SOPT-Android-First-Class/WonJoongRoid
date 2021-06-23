@@ -25,12 +25,17 @@ SOPT를 통해 좋은 분들을 만나고 공부하게 되어 행복합니다.<b
 </tr>
 <tr>
 <td>3주차</td>
-<td>Design for better application</td>
+<td>Figma, Zeplin과 협업하기</td>
 <td>2021.04.24</td>
 </tr>
 <tr>
 <td><a href="https://github.com/BE-SOPT-Android-First-Class/WonJoongRoid/tree/master/Fourth_Seminar">4주차</a></td>
 <td>Retrofit2로 서버와 통신하기</td>
 <td>2021.05.08</td>
+</tr>
+<tr>
+<td><a href="https://github.com/BE-SOPT-Android-First-Class/WonJoongRoid/tree/master/Seventh_Seminar">7주차</a></td>
+<td>Activity, Shared Preferences</td>
+<td>2021.06.05</td>
 </tr>
 </table>
